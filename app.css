@@ -392,8 +392,6 @@ body {
   grid-template-rows: repeat(2, 1fr);
   grid-gap: 3rem;
   padding: 1.5rem;
-  backdrop-filter: blur(5px);
-  border-radius: 15px;
 }
 
 .list {
